@@ -1,43 +1,45 @@
-<div align="center">
+# Diego
 
-# Hey, I'm Diego 👋
+I build software that makes everyday technology a little less annoying.
 
-### Software Development • Linux • Python
+Mostly working with **Python, Linux and local-first tools**.
 
-</div>
-
----
-
-## ⚙️ Currently building: ARDANG
-
-> **ARDANG is currently under active development.**
-
-Personal software project focused on architecture,
-automation, reliability and intelligent tools.
-
-🚧 **Status:** Active development  
-🐧 **Environment:** Linux  
-🐍 **Main language:** Python  
+Currently building **ARDANG**, a private voice assistant designed to work
+across my PC and phone without depending on the cloud for everything.
 
 ---
 
-## 🧰 Tech
+## 🎙️ ARDANG
 
-<p align="center">
+A local-first voice assistant I'm building from scratch.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+- Voice interaction across PC and mobile
+- Local AI with Ollama
+- Automation and system control
+- Obsidian integration
+- Privacy-first architecture
+- Built and tested primarily on Linux
 
-</p>
+ARDANG is also where I experiment with architecture, testing,
+desktop applications and making AI tools actually useful.
 
 ---
 
-<div align="center">
+## What I'm doing lately
 
-### ARDANG is just getting started.
+🐧 Daily-driving Linux  
+🧠 Experimenting with local AI  
+🔧 Building ARDANG one feature at a time  
+🧪 Breaking things, testing them, then fixing them  
+📚 Learning mostly by building things I actually want to use
 
-`build • test • learn • repeat`
+---
 
-</div>
+## Stuff I use
+
+`Python` · `Linux` · `Git` · `GitHub` · `Ollama`
+
+---
+
+> I build things because at some point I thought:
+> **"why doesn't this already exist?"**
