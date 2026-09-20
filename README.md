@@ -1,17 +1,15 @@
 # Diego
 
-I build software that makes everyday technology a little less annoying.
+I like building tools that solve problems I keep running into.
 
-Mostly working with **Python, Linux and local-first tools**.
-
-Currently building **ARDANG**, a private voice assistant designed to work
-across my PC and phone without depending on the cloud for everything.
+Most of my time goes into **Python, Linux and local-first software**.
+Right now I'm building **ARDANG**, a private voice assistant designed to work across my PC and phone without depending on the cloud for everything.
 
 ---
 
 ## 🎙️ ARDANG
 
-A local-first voice assistant I'm building from scratch.
+ARDANG is a local-first voice assistant I'm building from scratch.
 
 - Voice interaction across PC and mobile
 - Local AI with Ollama
@@ -20,18 +18,16 @@ A local-first voice assistant I'm building from scratch.
 - Privacy-first architecture
 - Built and tested primarily on Linux
 
-ARDANG is also where I experiment with architecture, testing,
-desktop applications and making AI tools actually useful.
+Most of what I learn about architecture, testing and desktop development
+eventually ends up somewhere inside ARDANG.
 
 ---
 
 ## What I'm doing lately
 
 🐧 Daily-driving Linux  
-🧠 Experimenting with local AI  
 🔧 Building ARDANG one feature at a time  
-🧪 Breaking things, testing them, then fixing them  
-📚 Learning mostly by building things I actually want to use
+🧪 Breaking things, testing them, then fixing them
 
 ---
 
@@ -41,5 +37,5 @@ desktop applications and making AI tools actually useful.
 
 ---
 
-> I build things because at some point I thought:
-> **"why doesn't this already exist?"**
+> Most of my projects start with:
+> **"why doesn't this exist?"**
